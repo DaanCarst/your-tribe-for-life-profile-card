@@ -18,8 +18,8 @@
         </section>
         <br>
         <section class="socials-container">
-            <img class="social-icon" src="https://cdn-icons-png.flaticon.com/512/1384/1384089.png" alt="">
-            <img class="social-icon" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6ac3c481f273141736_icon_clyde_black_RGB.png" alt="">
+            <img class="social-icon" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-logo-white-glyph.png" alt="">
+            <img class="social-icon" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6cc3c481a15a141738_icon_clyde_white_RGB.png" alt="">
         </section>
     </section>
 </section>
